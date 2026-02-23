@@ -8,7 +8,7 @@ The project focuses on clean UI design, intuitive navigation, and aesthetic pres
 
 ## Live Demo
 
-🔗 [Sneaker Heads](https://sneaker-heads.vercel.app)
+[Sneaker Heads](https://sneaker-heads.vercel.app)
 
 ---
 

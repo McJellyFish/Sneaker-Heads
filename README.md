@@ -1,4 +1,4 @@
-# 🏆 Sneaker-Heads
+# Sneaker-Heads
 
 Sneaker-Heads is a responsive, multi-page front-end website built using HTML, CSS, and JavaScript. The platform showcases sneaker collections, featured styles, and brand elements in a modern, visually engaging layout.
 

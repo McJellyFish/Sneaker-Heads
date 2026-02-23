@@ -50,6 +50,7 @@ Sneaker-Heads/
 ├── Collection.css
 │
 ├── particles.js
+│
 ├── logo.png
 ├── bg.png
 └── RegisterPage.png
